@@ -40,9 +40,6 @@ div {
   color: #66BFBF;
 }
 
-.pro {
-  text-decoration: underline;
-}
 
 .copyright{
   color: #40514E;
@@ -53,11 +50,7 @@ div {
   right: 500px;
   top: 70px;
 }
-.bottom-cloud {
-  position: absolute;
-  left: 500px;
-  bottom: 70px;
-}
+
 
 img {
   width: 200px;
